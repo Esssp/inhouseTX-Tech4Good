@@ -1,0 +1,8 @@
+{
+  "categories": {
+    "Food & Dining": ["starbucks", "mcdonalds", "dominos"],
+    "Fuel": ["shell", "bharat petroleum", "hp petrol"],
+    "Shopping": ["amazon", "flipkart", "myntra"],
+    "Groceries": ["big bazaar", "dmart", "reliance fresh"]
+  }
+}
