@@ -73,8 +73,8 @@ New categories can be introduced, modified, or removed without editing the sourc
 This allows organisations to align categorisation with internal financial or reporting structures.
 
 - Important Links:
-1. Project PDF (to be uploaded)
-2. Demonstration video link (to be uploaded)
+1. Project PDF
+2. Demonstration video link (https://drive.google.com/file/d/1OhwEUuJpmMSlC0tTx2R_fZmNFkhgerKv/view?usp=sharing)
 3. Dataset documentation included in the repository
 
 - Licence:
